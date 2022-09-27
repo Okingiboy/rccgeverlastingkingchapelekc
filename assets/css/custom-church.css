@@ -19,18 +19,18 @@
 	}
 
 	.carousel-img-1{
-		background: url("../img/ekc.jpg") center center no-repeat;
+		background: url("../img/icons/ekc.jpg") center center no-repeat;
 		background-size: cover;
 	}
 
 	.carousel-img-2{
 		/*no "center center" no-repeat based on the particuar picture (4.jpg)"*/
-		background: url("../img/pastor.jpg") no-repeat;
+		background: url("../img/icons/pastor.jpg") no-repeat;
 		background-size: cover;
 	}
 
 	.carousel-img-3{
-		background: url("../img/member.jpg") center center no-repeat;
+		background: url("../img/icons/member.jpg") center center no-repeat;
 		background-size: cover;
 	}
 
@@ -63,7 +63,7 @@
 @media only screen and (max-width: 700px){
 	.carousel-img-2{
 		/*no "center center" no-repeat based on the particuar picture (4.jpg)"*/
-		background: url("../img/pastor.jpg") center center no-repeat;
+		background: url("../img/icons/pastor.jpg") center center no-repeat;
 		background-size: cover;
 	}
 	.googlemap{
