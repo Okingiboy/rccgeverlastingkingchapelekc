@@ -5,4 +5,4 @@
 
 [okoriechukwu@yahoo.com](mailto:okoriechukwu@yahoo.com)
 
-* [Javascript](https://www.javascript.com/)
+* [Everlastingkingchapel](http://www.everlastingkingchapel.com/)
