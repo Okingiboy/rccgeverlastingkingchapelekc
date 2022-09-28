@@ -7,4 +7,4 @@
 
 * [Everlastingkingchapel](http://www.everlastingkingchapel.com/)
 
-* [Everlastingkingchapelekc](https://www.rccgeverlastingkingchapelekc)
+* [Everlastingkingchapelekc](https://github.com/Okingiboy/rccgeverlastingkingchapelekc)
