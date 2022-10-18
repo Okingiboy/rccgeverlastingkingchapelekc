@@ -19,7 +19,7 @@
 	}
 
 	.carousel-img-1{
-		background: url("../img/ekc.jpg") center center no-repeat;
+		background: url("../img/ekc.jpg" ) center center no-repeat;
 		background-size: cover;
 	}
 
@@ -69,6 +69,10 @@
 	.googlemap{
 		width: 250px;
 		height: 250px;
+	}
+	.ekc{
+		width: 1600px;
+		height: 777px;
 	}
 
 }
