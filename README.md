@@ -1,10 +1,2 @@
-# RCCG Everlasting King Chapel
+# RCCG EVERLASTING KING CHAPEL
 *Informational Church Website*
-
-
-
-[okoriechukwu@yahoo.com](mailto:okoriechukwu@yahoo.com)
-
-* [Everlastingkingchapel](http://www.everlastingkingchapel.com/)
-
-* [Everlastingkingchapelekc](https://github.com/Okingiboy/rccgeverlastingkingchapelekc)

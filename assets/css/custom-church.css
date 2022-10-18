@@ -19,7 +19,7 @@
 	}
 
 	.carousel-img-1{
-		background: url("../img/ekc.jpg" ) center center no-repeat;
+		background: url("../img/ekc.jpg") center center no-repeat;
 		background-size: cover;
 	}
 
@@ -70,21 +70,5 @@
 		width: 250px;
 		height: 250px;
 	}
-	.ekc.jpg{
-		width: 1600px;
-		height: 777px;
-	}
-
-	.pastor.jpg{
-		width: 1600px;
-		height: 778px;
-	}
-
-	.member.jpg{
-		width: 1600px;
-		height: 778px;
-	}
-
-	
 
 }
